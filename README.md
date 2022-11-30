@@ -1,9 +1,12 @@
 # Tieba Stickers
-![Packagist](https://img.shields.io/packagist/l/wvbdev/tieba-stickers.svg) ![Packagist Version](https://img.shields.io/packagist/v/wvbdev/tieba-stickers.svg) ![Packagist](https://img.shields.io/packagist/dt/wvbdev/tieba-stickers.svg)
+![Packagist](https://img.shields.io/packagist/l/wvbdev/tieba-stickers.svg) ![Packagist Version](https://img.shields.io/packagist/v/wvbdev/tieba-stickers.svg)
 
 Tieba Sticker BBCodes for Flarum.
 
 A group of BBCodes that allows user to send Baidu Tieba Stickers.
+
+2014年版贴吧表情分支。
+
 # Usage
 ```
 [tieba={text}]
@@ -20,9 +23,3 @@ Just install and enable it.
 
 - [GitHub](https://github.com/wvbdev/tieba-stickers)
 - [Packagist](https://packagist.org/packages/wvbdev/tieba-stickers)
-
-
-# TODO
-
-- [ ] Change BBCode style
-- [ ] Add Flarum-style auto-complete
